@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Time-lapse+Software-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Time--lapse+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 LRTimelapse Free Installer** — LRTimelapse is a professional time-lapse workflow tool that works alongside Adobe Lightroom and Camera RAW to automate keyframing, deflicker, and holy grail (day-to-night) transitions for stunning time-lapse sequences.. Works without internet access, no account required. Full offline installation.
+**💻 LRTimelapse Free Installer** — LRTimelapse is a professional time-lapse workflow tool that works alongside Adobe Lightroom and Camera RAW to automate keyframing, deflicker, and holy grail (day-to-night) transitions for stunning time-lapse sequences. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -121,7 +121,7 @@ LRTimelapse is a professional time-lapse workflow tool that works alongside Adob
 
 ---
 
-**LRTimelapse Free Installer** — LRTimelapse is a professional time-lapse workflow tool that works alongside Adobe Lightroom and Camera RAW to automate keyframing, deflicker, and holy grail (day-to-night) transitions for stunning time-lapse sequences.. Install without internet connection today!
+**LRTimelapse Free Installer** — LRTimelapse is a professional time-lapse workflow tool that works alongside Adobe Lightroom and Camera RAW to automate keyframing, deflicker, and holy grail (day-to-night) transitions for stunning time-lapse sequences. Install without internet connection today!
 
 <div align="center">
 
